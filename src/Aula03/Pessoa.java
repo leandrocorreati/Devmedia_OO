@@ -29,7 +29,7 @@ public class Pessoa
 
     @Override
     public String toString() {
-        return "Pessoa{" +
+        return "Livro{" +
                 "nome='" + nome + '\'' +
                 ", idade=" + idade +
                 '}';
