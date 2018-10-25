@@ -12,6 +12,14 @@ public class Pessoa
         this.matricula = matricula;
     }
 
+    public Pessoa(String nome)
+    {
+        super();
+        this.nome = nome;
+    }
+
+    public Pessoa() {
+    }
 
     public String getNome() {
         return nome;
@@ -31,6 +39,6 @@ public class Pessoa
 
     @Override
     public String toString() {
-        return "Pessoa: " + " nome = '" + nome + '\'' + ", matricula = '" + matricula ;
+        return "Pessoa: " + " nome = '" + nome + '\'' + ", \nmatricula = '" + matricula ;
     }
 }

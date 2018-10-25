@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cb00892-8dfc-4fa9-90db-ba173335a43b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aula07/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula07/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula07/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula07/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula07/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula07/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula07/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula07/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula07/Principal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,23 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Principal.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Principal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aula07/Principal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            <state relative-caret-position="102">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aluno.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Aluno.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Aula07/Aluno.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="442">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding>
-                <element signature="e#101#102#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,8 +42,8 @@
       <file leaf-file-name="Pessoa.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aula07/Pessoa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            <state relative-caret-position="340">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
               <folding>
                 <element signature="e#123#124#0" expanded="true" />
                 <element signature="e#150#151#0" expanded="true" />
@@ -53,8 +53,8 @@
                 <element signature="e#290#291#0" expanded="true" />
                 <element signature="e#340#341#0" expanded="true" />
                 <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,9 +98,9 @@
         <option value="$PROJECT_DIR$/src/Aula06/Principal.java" />
         <option value="$PROJECT_DIR$/src/Aula06/Aluno.java" />
         <option value="$PROJECT_DIR$/src/Aula06/Professor.java" />
-        <option value="$PROJECT_DIR$/src/Aula07/Aluno.java" />
         <option value="$PROJECT_DIR$/src/Aula07/Pessoa.java" />
         <option value="$PROJECT_DIR$/src/Aula07/Principal.java" />
+        <option value="$PROJECT_DIR$/src/Aula07/Aluno.java" />
       </list>
     </option>
   </component>
@@ -311,7 +311,7 @@
       <workItem from="1540258460591" duration="204000" />
       <workItem from="1540338257305" duration="388000" />
       <workItem from="1540339329376" duration="6596000" />
-      <workItem from="1540424502089" duration="3926000" />
+      <workItem from="1540424502089" duration="6499000" />
     </task>
     <task id="LOCAL-00001" summary="Inclusão do Drive JDBC">
       <created>1539830566566</created>
@@ -366,7 +366,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22186000" />
+    <option name="totallyTimeSpent" value="24759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -731,21 +731,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aula07/Aluno.java">
+    <entry file="file://$PROJECT_DIR$/src/Aula07/Principal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-          </folding>
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Aula07/Pessoa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        <state relative-caret-position="340">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding>
             <element signature="e#123#124#0" expanded="true" />
             <element signature="e#150#151#0" expanded="true" />
@@ -755,16 +751,20 @@
             <element signature="e#290#291#0" expanded="true" />
             <element signature="e#340#341#0" expanded="true" />
             <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aula07/Principal.java">
+    <entry file="file://$PROJECT_DIR$/src/Aula07/Aluno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="442">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
